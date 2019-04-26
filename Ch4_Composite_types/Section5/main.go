@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pintom/go-exercises/e4_10/github"
+	"github.com/pintom/go-exercises/Ch4_Composite_types/Section5/github"
 	"log"
 	"os"
 )
